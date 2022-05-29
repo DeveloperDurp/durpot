@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gitlab-ci.yml
+npm-debug.log
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
+.vscode
+.env
