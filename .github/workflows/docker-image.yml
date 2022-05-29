@@ -26,4 +26,4 @@ jobs:
         with:
           push: true # Will only build if this is not here
           tags: |
-            ghcr.io/${{ github.repository }}:latest
+            ghcr.io/developerdurp/durpot:latest
